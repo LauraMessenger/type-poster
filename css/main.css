@@ -1,0 +1,59 @@
+body{
+
+  background: url(../img/roland-denes-973759-unsplash.jpg) no-repeat 50% 50%;
+  background-size: cover;
+
+
+}
+h1{
+  text-align:center; 
+  text-transform: uppercase;
+  font-size: 5.75rem;
+  color: black; 
+  letter-spacing: 2px;
+  line-height: .8;
+  font-family: 'Libre Franklin', sans-serif;
+  font-weight:900;
+}
+
+h1 span{
+	font-size: 7.75rem;
+}
+
+h2{
+  margin-top: 15rem;
+  font-family: 'PT Sans', sans-serif;
+}
+
+p{
+  color: white;
+}
+
+
+main{
+	width: 50%;
+	margin: 3rem auto;
+	padding: 3rem;
+	background-color: white;
+	
+}
+
+footer{
+	width: 50%;
+	margin: 3rem auto;
+	
+	
+	
+}
+footer p{
+	font-family: 'PT Sans', sans-serif;
+	letter-spacing: 2px;
+}
+
+footer a{
+	color: white;
+}
+
+footer a:hover{
+	color: #FF5722;
+}
